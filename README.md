@@ -94,13 +94,7 @@ I will update this section every day with what I learned and practiced.
 | Day    | Topics Covered              | Practice          | Status       |
 | ------ | --------------------------- | ----------------- | ------------ |
 | Day 01 | Python Introduction & Setup | Basic Programs    | 🟢 Completed |
-| Day 02 | Variables & Data Types      | Practice Problems | 🟢 Completed |
-| Day 03 | Operators                   | Practice Problems | 🟢 Completed |
-| Day 04 | Conditional Statements      | Coding Problems   | 🟢 Completed |
-| Day 05 | Loops                       | Coding Problems   | 🟢 Completed |
-| Day 06 | Strings                     | String Problems   | 🟢 Completed |
-| Day 07 | Lists                       | List Problems     | 🟢 Completed |
-| ...    | ...                         | ...               | 🔄 Ongoing   |
+
 
 > The table will continue to grow as I progress.
 
