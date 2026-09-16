@@ -4,6 +4,7 @@
 
 Welcome to **Python From Scratch** — a personal learning repository where I document my progress as I learn Python from the ground up and gradually apply it to **data analysis**.
 
+<<<<<<< HEAD
 This repository is not just a collection of code. It is my **daily learning log**, where I track what I learn, what I practice, the problems I solve, and the projects I build along the way.
 
 ---
@@ -169,6 +170,12 @@ Python-From-Scratch/
 ├── 11_Projects/
 │
 └── README.md
+```
+
+## Run
+
+```powershell
+python 01_Python_Basics\main.py
 ```
 
 ---
