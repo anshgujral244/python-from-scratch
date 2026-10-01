@@ -98,6 +98,7 @@ I will update this section every day with what I learned and practiced.
 | Day 02 | Variables & Different Cases | Basic Programs    | 🟢 Completed |
 | Day 03 | Data Types & their Uses     | Basic Programs    | 🟢 Completed |
 | Day 04 | Operators                   | Basic Programs    | 🟢 Completed |
+| Day 05 | Control Statement           | Basic Programs    | 🟢 Completed |
 
 
 > The table will continue to grow as I progress.
